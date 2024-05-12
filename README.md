@@ -101,7 +101,7 @@ Soy estudiante de ingenieria, desarrollo proyectos de robotica [Arduino], ademá
 [![My Skills](https://skillicons.dev/icons?i=git,github,anaconda,postgress&perline=9)](https://skillicons.dev)
 
 ### Software y herramientas:
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,pycharm,vscode,stackoverflow,sublimetext,godot&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,pycharm,vscode,stackoverflow,sublime,godot&perline=9)](https://skillicons.dev)
 
 ### Otros y por aprender:
 [![My Skills](https://skillicons.dev/icons?i=sketchup,gitlab,java,linux&perline=6)](https://skillicons.dev)
