@@ -12,7 +12,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 
-Soy estudiante de ingenieria, desarrollo proyectos de robotica [Arduino], además me gusta el SOFTWERE. Amplio mis conocimientos cada dia. Como persona nunca dejo de aprender. Pronto tendre proyectos publicados 
+Soy estudiante de ingenieria, desarrollo proyectos de robotica [Arduino], además me gusta el SOFTWARE. Amplio mis conocimientos cada dia. Como persona nunca dejo de aprender. Pronto tendre proyectos publicados 
 <!--## Proyectos IA:
 <table>
 <tr>
@@ -101,7 +101,7 @@ Soy estudiante de ingenieria, desarrollo proyectos de robotica [Arduino], ademá
 [![My Skills](https://skillicons.dev/icons?i=git,github,anaconda,postgress&perline=9)](https://skillicons.dev)
 
 ### Software y herramientas:
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,pycharm,vscode,stackoverflow,sublilmetext,godot&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,pycharm,vscode,stackoverflow,sublimetext,godot&perline=9)](https://skillicons.dev)
 
 ### Otros y por aprender:
 [![My Skills](https://skillicons.dev/icons?i=sketchup,gitlab,java,linux&perline=6)](https://skillicons.dev)
